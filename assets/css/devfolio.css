@@ -1,0 +1,70 @@
+#devfolio-apply-now {
+  font-family: "Raleway", sans-serif;
+  
+  letter-spacing: 1px;
+  display: inline-block;
+  padding: 10px 30px;
+  border-radius: 10px;
+  transition: 0.5s;
+  color: #FAA21B;
+  border: 2px solid #FAA21B;
+  margin: 20px 0px 20px 0px;
+  -ms-flex-align: center;
+  -webkit-box-align: center;
+  align-items: center;
+  background-color: #f82249;
+  outline: none;
+  border: none;
+  color: #FFFFFF;
+  cursor: pointer;
+  display: -ms-flexbox;
+  display: -webkit-box;
+  display: flex;
+  /* font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; */
+  font-size: 18px;
+  font-weight: 600;
+  padding: 12px 20px;
+  text-align: center;
+  text-transform: lowercase;
+}
+/*
+#devfolio-apply-now {
+  font-family: "Raleway", sans-serif;
+  
+  letter-spacing: 1px;
+  display: inline-block;
+  padding: 10px 30px;
+  border-radius: 10px;
+  transition: 0.5s;
+  color: #FAA21B;
+  border: 2px solid #FAA21B;
+  margin: 20px 0px 20px 0px;
+  -ms-flex-align: center;
+  -webkit-box-align: center;
+  align-items: center;
+  background-color: #FAA21B;
+  outline: none;
+  border: none;
+  color: #FFFFFF;
+  cursor: pointer;
+  display: -ms-flexbox;
+  display: -webkit-box;
+  display: flex;
+  /* font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; */
+ /* font-size: 18px;
+  font-weight: 600;
+  padding: 12px 20px;
+  text-align: center;
+  text-transform: lowercase;
+}*/
+
+
+
+#devfolio-apply-now:not([disabled]) {
+  cursor: pointer;
+}
+}
+
+#devfolio-apply-now:hover {
+    background-color: #2954BF !important;
+}
